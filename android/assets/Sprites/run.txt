@@ -1,0 +1,789 @@
+run.png
+size: 3584, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_Warrior_Attack_1
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+0_Warrior_Attack_1
+  rotate: false
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+0_Warrior_Attack_1
+  rotate: false
+  xy: 512, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+0_Warrior_Attack_1
+  rotate: false
+  xy: 768, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 3
+0_Warrior_Attack_1
+  rotate: false
+  xy: 1024, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 4
+0_Warrior_Attack_1
+  rotate: false
+  xy: 1280, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 5
+0_Warrior_Attack_1
+  rotate: false
+  xy: 1536, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 6
+0_Warrior_Attack_1
+  rotate: false
+  xy: 1792, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 7
+0_Warrior_Attack_1
+  rotate: false
+  xy: 2048, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 8
+0_Warrior_Attack_1
+  rotate: false
+  xy: 2304, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 9
+0_Warrior_Attack_1
+  rotate: false
+  xy: 2560, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 10
+0_Warrior_Attack_1
+  rotate: false
+  xy: 2816, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 11
+0_Warrior_Attack_1
+  rotate: false
+  xy: 3072, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 12
+0_Warrior_Attack_1
+  rotate: false
+  xy: 3328, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 13
+0_Warrior_Run
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+0_Warrior_Run
+  rotate: false
+  xy: 256, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+0_Warrior_Run
+  rotate: false
+  xy: 512, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+0_Warrior_Run
+  rotate: false
+  xy: 768, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 3
+0_Warrior_Run
+  rotate: false
+  xy: 1024, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 4
+0_Warrior_Run
+  rotate: false
+  xy: 1280, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 5
+0_Warrior_Run
+  rotate: false
+  xy: 1536, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 6
+0_Warrior_Run
+  rotate: false
+  xy: 1792, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 7
+0_Warrior_Run
+  rotate: false
+  xy: 2048, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 8
+0_Warrior_Run
+  rotate: false
+  xy: 2304, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 9
+0_Warrior_Run
+  rotate: false
+  xy: 2560, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 10
+0_Warrior_Run
+  rotate: false
+  xy: 2816, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 11
+0_Warrior_Run
+  rotate: false
+  xy: 3072, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 12
+0_Warrior_Run
+  rotate: false
+  xy: 3328, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 13
+1_Warrior_Attack_1
+  rotate: false
+  xy: 0, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+1_Warrior_Attack_1
+  rotate: false
+  xy: 256, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+1_Warrior_Attack_1
+  rotate: false
+  xy: 512, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+1_Warrior_Attack_1
+  rotate: false
+  xy: 768, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 3
+1_Warrior_Attack_1
+  rotate: false
+  xy: 1024, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 4
+1_Warrior_Attack_1
+  rotate: false
+  xy: 1280, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 5
+1_Warrior_Attack_1
+  rotate: false
+  xy: 1536, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 6
+1_Warrior_Attack_1
+  rotate: false
+  xy: 1792, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 7
+1_Warrior_Attack_1
+  rotate: false
+  xy: 2048, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 8
+1_Warrior_Attack_1
+  rotate: false
+  xy: 2304, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 9
+1_Warrior_Attack_1
+  rotate: false
+  xy: 2560, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 10
+1_Warrior_Attack_1
+  rotate: false
+  xy: 2816, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 11
+1_Warrior_Attack_1
+  rotate: false
+  xy: 3072, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 12
+1_Warrior_Attack_1
+  rotate: false
+  xy: 3328, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 13
+1_Warrior_Run
+  rotate: false
+  xy: 0, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+1_Warrior_Run_001 
+  rotate: false
+  xy: 256, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+1_Warrior_Run_002 
+  rotate: false
+  xy: 512, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+1_Warrior_Run_003 
+  rotate: false
+  xy: 768, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+1_Warrior_Run_004 
+  rotate: false
+  xy: 1024, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+1_Warrior_Run
+  rotate: false
+  xy: 1280, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 5
+1_Warrior_Run_006 
+  rotate: false
+  xy: 1536, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+1_Warrior_Run
+  rotate: false
+  xy: 1792, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 7
+1_Warrior_Run
+  rotate: false
+  xy: 2048, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 8
+1_Warrior_Run
+  rotate: false
+  xy: 2304, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 9
+1_Warrior_Run
+  rotate: false
+  xy: 2560, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 10
+1_Warrior_Run
+  rotate: false
+  xy: 2816, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 11
+1_Warrior_Run
+  rotate: false
+  xy: 3072, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 12
+1_Warrior_Run
+  rotate: false
+  xy: 3328, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 13
+2_Warrior_Attack_1
+  rotate: false
+  xy: 0, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+2_Warrior_Attack_1
+  rotate: false
+  xy: 256, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+2_Warrior_Attack_1
+  rotate: false
+  xy: 512, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+2_Warrior_Attack_1
+  rotate: false
+  xy: 768, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 3
+2_Warrior_Attack_1
+  rotate: false
+  xy: 1024, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 4
+2_Warrior_Attack_1
+  rotate: false
+  xy: 1280, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 5
+2_Warrior_Attack_1
+  rotate: false
+  xy: 1536, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 6
+2_Warrior_Attack_1
+  rotate: false
+  xy: 1792, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 7
+2_Warrior_Attack_1
+  rotate: false
+  xy: 2048, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 8
+2_Warrior_Attack_1
+  rotate: false
+  xy: 2304, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 9
+2_Warrior_Attack_1
+  rotate: false
+  xy: 2560, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 10
+2_Warrior_Attack_1
+  rotate: false
+  xy: 2816, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 11
+2_Warrior_Attack_1
+  rotate: false
+  xy: 3072, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 12
+2_Warrior_Attack_1
+  rotate: false
+  xy: 3328, 1024
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 13
+2_Warrior_Run
+  rotate: false
+  xy: 0, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+2_Warrior_Run
+  rotate: false
+  xy: 256, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+2_Warrior_Run
+  rotate: false
+  xy: 512, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+2_Warrior_Run
+  rotate: false
+  xy: 768, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 3
+2_Warrior_Run
+  rotate: false
+  xy: 1024, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 4
+2_Warrior_Run
+  rotate: false
+  xy: 1280, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 5
+2_Warrior_Run
+  rotate: false
+  xy: 1536, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 6
+2_Warrior_Run
+  rotate: false
+  xy: 1792, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 7
+2_Warrior_Run
+  rotate: false
+  xy: 2048, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 8
+2_Warrior_Run
+  rotate: false
+  xy: 2304, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 9
+2_Warrior_Run
+  rotate: false
+  xy: 2560, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 10
+2_Warrior_Run
+  rotate: false
+  xy: 2816, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 11
+2_Warrior_Run
+  rotate: false
+  xy: 3072, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 12
+2_Warrior_Run
+  rotate: false
+  xy: 3328, 1280
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 13
+3_Warrior_Attack_1
+  rotate: false
+  xy: 0, 1536
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+3_Warrior_Attack_1
+  rotate: false
+  xy: 256, 1536
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+3_Warrior_Attack_1
+  rotate: false
+  xy: 512, 1536
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+3_Warrior_Attack_1
+  rotate: false
+  xy: 768, 1536
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 3
+3_Warrior_Attack_1
+  rotate: false
+  xy: 1024, 1536
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 4
+3_Warrior_Attack_1
+  rotate: false
+  xy: 1280, 1536
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 5
+3_Warrior_Attack_1
+  rotate: false
+  xy: 1536, 1536
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 6
+3_Warrior_Attack_1
+  rotate: false
+  xy: 1792, 1536
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 7
+3_Warrior_Attack_1
+  rotate: false
+  xy: 2048, 1536
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 8
+3_Warrior_Attack_1
+  rotate: false
+  xy: 2304, 1536
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 9
+3_Warrior_Attack_1
+  rotate: false
+  xy: 2560, 1536
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 10
+3_Warrior_Attack_1
+  rotate: false
+  xy: 2816, 1536
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 11
+3_Warrior_Attack_1
+  rotate: false
+  xy: 3072, 1536
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 12
+3_Warrior_Attack_1
+  rotate: false
+  xy: 3328, 1536
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 13
+3_Warrior_Run
+  rotate: false
+  xy: 0, 1792
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+3_Warrior_Run
+  rotate: false
+  xy: 256, 1792
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+3_Warrior_Run
+  rotate: false
+  xy: 512, 1792
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+3_Warrior_Run
+  rotate: false
+  xy: 768, 1792
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 3
+3_Warrior_Run
+  rotate: false
+  xy: 1024, 1792
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 4
+3_Warrior_Run
+  rotate: false
+  xy: 1280, 1792
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 5
+3_Warrior_Run
+  rotate: false
+  xy: 1536, 1792
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 6
+3_Warrior_Run
+  rotate: false
+  xy: 1792, 1792
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 7
+3_Warrior_Run
+  rotate: false
+  xy: 2048, 1792
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 8
+3_Warrior_Run
+  rotate: false
+  xy: 2304, 1792
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 9
+3_Warrior_Run
+  rotate: false
+  xy: 2560, 1792
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 10
+3_Warrior_Run
+  rotate: false
+  xy: 2816, 1792
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 11
+3_Warrior_Run
+  rotate: false
+  xy: 3072, 1792
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 12
+3_Warrior_Run
+  rotate: false
+  xy: 3328, 1792
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 13
