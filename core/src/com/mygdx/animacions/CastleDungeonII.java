@@ -4,7 +4,7 @@ import com.badlogic.gdx.Game;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
-public class Animator extends Game {
+public class CastleDungeonII extends Game {
 
     public static final int WIDTH = 800, HEIGHT = 600;
 

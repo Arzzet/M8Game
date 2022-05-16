@@ -19,7 +19,7 @@ import java.util.ArrayList;
 
 public class mainGame extends ApplicationAdapter implements Screen {
 
-    Animator game;
+    CastleDungeonII game;
     TextureAtlas textureAtlas;
     ArrayList<Bullet> bullets;
 
@@ -49,14 +49,14 @@ public class mainGame extends ApplicationAdapter implements Screen {
 
     float stateTime;
 
-    public mainGame(Animator game) {
+    public mainGame(CastleDungeonII game) {
 
         this.game = game;
 
         bullets = new ArrayList<Bullet>();
 
         camera = new OrthographicCamera();
-        camera.setToOrtho(false, Animator.WIDTH, Animator.HEIGHT);
+        camera.setToOrtho(false, CastleDungeonII.WIDTH, CastleDungeonII.HEIGHT);
 
         spriteBatch = new SpriteBatch();
         runSpriteSheet = new Texture(Gdx.files.internal("warriorSheet.png"));

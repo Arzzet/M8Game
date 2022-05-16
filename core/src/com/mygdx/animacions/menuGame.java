@@ -2,17 +2,16 @@ package com.mygdx.animacions;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Screen;
-import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.Texture;
 
 public class menuGame implements Screen {
 
-    final Animator game;
+    final CastleDungeonII game;
     OrthographicCamera camera;
     Texture fondo;
-    public menuGame(Animator game) {
+    public menuGame(CastleDungeonII game) {
         this.game = game;
         fondo = new Texture(Gdx.files.internal("background2.jpg"));
         camera = new OrthographicCamera();
